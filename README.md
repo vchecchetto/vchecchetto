@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius Checchetto</h1>
 <h3 align="center">A developer from Brazil.</h3>
 
-- 🔭 I’m currently working on [Projeto Gestão de Obra em Java](https://github.com/vchecchetto/projeto-java-gestao-obra)
+- 🔭 I’m currently working on [Projeto Gestão de Obra em Java](https://github.com/vchecchetto/projeto-gestao-obra)
 
 - 👨‍💻 All of my projects are available at [https://github.com/vchecchetto](https://github.com/vchecchetto)
 
